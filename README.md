@@ -23,6 +23,7 @@ The part highlighted in green on the diagram below is the focus of this reposito
 * [CDK](https://github.com/aws/aws-cdk)
 * [Projen](https://github.com/projen/projen)
 * [CDK Advanced Workshop](https://cdk-advanced.workshop.aws/start.html)
+* [CDK Escape Hatch](https://docs.aws.amazon.com/cdk/latest/guide/cfn_layer.html)
 * [Automated CDK version bumping](https://matthewbonig.com/2021/04/06/automating-construct-publishing/)
 * [Implementing GitFlow Using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [ConstructHub](https://constructs.dev/)
